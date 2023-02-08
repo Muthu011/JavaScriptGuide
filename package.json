@@ -1,0 +1,20 @@
+{
+  "name": "JavaScriptGuide",
+  "version": "1.0.0",
+  "description": "Javascript main topics like closure, array, pollyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muthu011/JavaScriptGuide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muthu011/JavaScriptGuide/issues"
+  },
+  "homepage": "https://github.com/Muthu011/JavaScriptGuide#readme"
+}
